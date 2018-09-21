@@ -1,0 +1,7 @@
+{
+    "name": "basic-static-site",
+    "devDependencies": {
+      "browser-sync": "^2.12.5",
+      "gulp": "^3.9.1"
+    }
+  }
